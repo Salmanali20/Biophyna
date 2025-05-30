@@ -1,0 +1,13 @@
+name: SalmanDeni
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - biopython
+  - emboss
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - plotly
