@@ -1,12 +1,14 @@
 # Biophyna
 
 ## Deskripsi
-Biophyna adalah sebuah proyek yang berfokus pada analisis data biologi atau fisika menggunakan Python. Proyek ini mungkin berisi tools, skrip, atau library untuk memproses dan menganalisis data dalam domain biologi dan fisika.
+Biophyna adalah sebuah proyek yang berfokus pada analisis data biologi menggunakan Python. Proyek ini mungkin berisi tools, skrip, atau library untuk memproses dan menganalisis data dalam domain biologi (eDNA).
 
 ## Fitur Utama
-- [Tambahkan fitur utama 1]
-- [Tambahkan fitur utama 2]
-- [Tambahkan fitur utama 3]
+- [Visualiasai Krona]
+- [Visualisasi Sankey]
+- [Visualisasi Stacked Bar Plot 100%]
+- [Visualisasi Bar Chart Top 5 Rank]
+- [Deteksi Bioindikator]
 
 ## Persyaratan
 - Python 3.x
@@ -14,7 +16,8 @@ Biophyna adalah sebuah proyek yang berfokus pada analisis data biologi atau fisi
   - numpy
   - pandas
   - matplotlib
-  - [lainnya]
+  - seaborn
+  - plotly
 
 ## Instalasi
 1. Clone repositori ini:
